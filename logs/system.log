@@ -1,0 +1,1110 @@
+2025-04-12 02:54:54,775 [INFO] Loading NIFTY data...
+2025-04-12 02:54:55,483 [INFO] Adding technical indicators...
+2025-04-12 02:54:55,596 [INFO] Fitting HMM model for regime detection...
+2025-04-12 02:55:00,404 [INFO] Running regime-based strategy...
+2025-04-12 02:55:00,656 [INFO] Backtesting strategy...
+2025-04-12 02:55:00,657 [INFO] Starting backtest engine...
+2025-04-12 02:55:02,935 [INFO] Plot saved to: plots\portfolio_plot.png
+2025-04-12 02:55:02,936 [INFO] Backtest completed and plot saved.
+2025-04-12 02:55:02,938 [INFO] Backtest complete. Final portfolio value: 997780.15
+2025-04-12 02:56:56,130 [INFO] Loading NIFTY data...
+2025-04-12 02:56:56,929 [INFO] Adding technical indicators...
+2025-04-12 02:56:57,025 [INFO] Fitting HMM model for regime detection...
+2025-04-12 02:56:57,388 [INFO] Running regime-based strategy...
+2025-04-12 02:56:57,534 [INFO] Backtesting strategy...
+2025-04-12 02:56:57,534 [INFO] Starting backtest engine...
+2025-04-12 02:56:59,202 [INFO] Plot saved to: plots\portfolio_plot.png
+2025-04-12 02:56:59,203 [INFO] Backtest completed and plot saved.
+2025-04-12 02:56:59,205 [INFO] Backtest complete. Final portfolio value: 1009710.15
+2025-04-12 02:58:55,735 [INFO] Loading NIFTY data...
+2025-04-12 02:58:56,324 [INFO] Adding technical indicators...
+2025-04-12 02:58:56,418 [INFO] Fitting HMM model for regime detection...
+2025-04-12 02:58:56,810 [INFO] Running regime-based strategy...
+2025-04-12 02:58:56,959 [INFO] Backtesting strategy...
+2025-04-12 02:58:56,959 [INFO] Starting backtest engine...
+2025-04-12 02:58:58,651 [INFO] Plot saved to: plots\portfolio_plot.png
+2025-04-12 02:58:58,652 [INFO] Backtest completed and plot saved.
+2025-04-12 02:58:58,653 [INFO] Backtest complete. Final portfolio value: 1013002.60
+2025-04-12 03:00:26,711 [INFO] Loading NIFTY data...
+2025-04-12 03:00:27,507 [INFO] Adding technical indicators...
+2025-04-12 03:00:27,601 [INFO] Fitting HMM model for regime detection...
+2025-04-12 03:00:27,996 [INFO] Running regime-based strategy...
+2025-04-12 03:00:28,153 [INFO] Backtesting strategy...
+2025-04-12 03:00:28,153 [INFO] Starting backtest engine...
+2025-04-12 03:00:30,077 [INFO] Plot saved to: plots\portfolio_plot.png
+2025-04-12 03:00:30,079 [INFO] Backtest completed and plot saved.
+2025-04-12 03:00:30,080 [INFO] Backtest complete. Final portfolio value: 1013002.60
+2025-04-12 03:01:55,676 [INFO] Loading NIFTY data...
+2025-04-12 03:01:56,233 [INFO] Adding technical indicators...
+2025-04-12 03:01:56,328 [INFO] Fitting HMM model for regime detection...
+2025-04-12 03:01:56,790 [INFO] Plotting HMM regimes...
+2025-04-12 03:02:02,661 [INFO] Regime plot saved.
+2025-04-12 03:02:02,661 [INFO] Running regime-based strategy...
+2025-04-12 03:02:02,877 [INFO] Backtesting strategy...
+2025-04-12 03:02:02,878 [INFO] Starting backtest engine...
+2025-04-12 03:02:04,873 [INFO] Plot saved to: plots\portfolio_plot.png
+2025-04-12 03:02:04,881 [INFO] Backtest completed and plot saved.
+2025-04-12 03:02:04,884 [INFO] Backtest complete. Final portfolio value: 1006812.85
+2025-04-12 03:02:45,174 [INFO] Loading NIFTY data...
+2025-04-12 03:02:45,904 [INFO] Adding technical indicators...
+2025-04-12 03:02:45,996 [INFO] Fitting HMM model for regime detection...
+2025-04-12 03:02:46,900 [INFO] Plotting HMM regimes...
+2025-04-12 03:02:47,710 [INFO] Regime plot saved.
+2025-04-12 03:02:47,710 [INFO] Running regime-based strategy...
+2025-04-12 03:02:47,877 [INFO] Backtesting strategy...
+2025-04-12 03:02:47,878 [INFO] Starting backtest engine...
+2025-04-12 03:02:49,436 [INFO] Plot saved to: plots\portfolio_plot.png
+2025-04-12 03:02:49,436 [INFO] Backtest completed and plot saved.
+2025-04-12 03:02:49,438 [INFO] Backtest complete. Final portfolio value: 1007261.95
+2025-04-12 03:05:16,149 [INFO] Loading NIFTY data...
+2025-04-12 03:05:16,814 [INFO] Adding technical indicators...
+2025-04-12 03:05:16,909 [INFO] Fitting HMM model for regime detection...
+2025-04-12 03:05:17,775 [INFO] Plotting HMM regimes...
+2025-04-12 03:05:18,636 [INFO] Regime plot saved.
+2025-04-12 03:05:18,637 [INFO] Running regime-based strategy...
+2025-04-12 03:05:18,835 [INFO] Backtesting strategy...
+2025-04-12 03:05:18,836 [INFO] Starting backtest engine...
+2025-04-12 03:05:20,545 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 03:05:20,546 [INFO] Backtest completed and plot saved.
+2025-04-12 03:05:20,548 [INFO] Backtest complete. Final portfolio value: 1007975.00
+2025-04-12 03:07:08,267 [INFO] Loading NIFTY data...
+2025-04-12 03:07:08,860 [INFO] Adding technical indicators...
+2025-04-12 03:07:08,950 [INFO] Fitting HMM model for regime detection...
+2025-04-12 03:07:09,871 [INFO] Plotting HMM regimes...
+2025-04-12 03:07:10,822 [INFO] Regime plot saved.
+2025-04-12 03:07:10,823 [INFO] Running regime-based strategy...
+2025-04-12 03:07:11,014 [INFO] Backtesting strategy...
+2025-04-12 03:07:11,015 [INFO] Starting backtest engine...
+2025-04-12 03:07:12,594 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 03:07:12,595 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 03:07:12,595 [INFO] Backtest completed and plot saved.
+2025-04-12 03:07:12,596 [INFO] Sharpe Ratio: 0.60
+2025-04-12 03:07:12,597 [INFO] Sortino Ratio: 0.50
+2025-04-12 03:07:12,597 [INFO] Max Drawdown: -0.43%
+2025-04-12 03:07:12,597 [INFO] Backtest completed and plot saved.
+2025-04-12 03:07:12,599 [INFO] Backtest complete. Final portfolio value: 1005963.55
+2025-04-12 03:20:50,871 [INFO] Loading NIFTY data...
+2025-04-12 03:20:51,492 [INFO] Adding technical indicators...
+2025-04-12 03:20:51,507 [INFO] Fitting HMM model for regime detection...
+2025-04-12 03:23:16,457 [INFO] Loading NIFTY data...
+2025-04-12 03:23:17,304 [INFO] Adding technical indicators...
+2025-04-12 03:23:29,854 [INFO] Loading NIFTY data...
+2025-04-12 03:23:30,490 [INFO] Adding technical indicators...
+2025-04-12 03:23:30,587 [INFO] Fitting HMM model for regime detection...
+2025-04-12 03:23:33,053 [INFO] Plotting HMM regimes...
+2025-04-12 03:23:34,145 [INFO] Regime plot saved.
+2025-04-12 03:23:34,149 [INFO] Running regime-based strategy...
+2025-04-12 03:23:34,469 [INFO] Backtesting strategy...
+2025-04-12 03:23:34,469 [INFO] Starting backtest engine with ML signals...
+2025-04-12 03:23:35,222 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 03:23:35,222 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 03:23:35,223 [INFO] Backtest completed and plot saved.
+2025-04-12 03:23:35,224 [INFO] Sharpe Ratio: 0.44
+2025-04-12 03:23:35,225 [INFO] Sortino Ratio: nan
+2025-04-12 03:23:35,225 [INFO] Max Drawdown: 0.00%
+2025-04-12 03:23:35,226 [INFO] Backtest completed and plot saved.
+2025-04-12 03:23:35,227 [INFO] Backtest complete. Final portfolio value: 1022645.79
+2025-04-12 03:23:35,230 [INFO] Backtest complete. Final portfolio value: 1022645.79
+2025-04-12 03:27:21,829 [INFO] Loading NIFTY data...
+2025-04-12 03:27:22,549 [INFO] Adding technical indicators...
+2025-04-12 03:27:22,637 [INFO] Fitting HMM model for regime detection...
+2025-04-12 03:27:25,019 [INFO] Plotting HMM regimes...
+2025-04-12 03:27:26,068 [INFO] Regime plot saved.
+2025-04-12 03:27:26,069 [INFO] Running regime-based strategy...
+2025-04-12 03:27:26,367 [INFO] Displaying frequency of (Signal, Regime) combinations:
+2025-04-12 03:27:26,500 [INFO] Backtesting strategy...
+2025-04-12 03:27:26,500 [INFO] Starting backtest engine with ML signals...
+2025-04-12 03:27:27,127 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 03:27:27,128 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 03:27:27,128 [INFO] Backtest completed and plot saved.
+2025-04-12 03:27:27,129 [INFO] Sharpe Ratio: 0.38
+2025-04-12 03:27:27,129 [INFO] Sortino Ratio: 0.46
+2025-04-12 03:27:27,130 [INFO] Max Drawdown: -0.44%
+2025-04-12 03:27:27,130 [INFO] Backtest completed and plot saved.
+2025-04-12 03:27:27,131 [INFO] Backtest complete. Final portfolio value: 1041374.46
+2025-04-12 03:27:27,133 [INFO] Backtest complete. Final portfolio value: 1041374.46
+2025-04-12 03:28:00,514 [INFO] Loading NIFTY data...
+2025-04-12 03:28:01,291 [INFO] Adding technical indicators...
+2025-04-12 03:28:01,368 [INFO] Fitting HMM model for regime detection...
+2025-04-12 03:28:01,793 [INFO] Plotting HMM regimes...
+2025-04-12 03:28:02,538 [INFO] Regime plot saved.
+2025-04-12 03:28:02,538 [INFO] Running regime-based strategy...
+2025-04-12 03:28:02,725 [INFO] Displaying frequency of (Signal, Regime) combinations:
+2025-04-12 03:28:02,731 [INFO] Backtesting strategy...
+2025-04-12 03:28:02,732 [INFO] Starting backtest engine with ML signals...
+2025-04-12 03:28:03,324 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 03:28:03,324 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 03:28:03,325 [INFO] Backtest completed and plot saved.
+2025-04-12 03:28:03,325 [INFO] Sharpe Ratio: -0.64
+2025-04-12 03:28:03,326 [INFO] Sortino Ratio: -0.08
+2025-04-12 03:28:03,326 [INFO] Max Drawdown: -7.02%
+2025-04-12 03:28:03,327 [INFO] Backtest completed and plot saved.
+2025-04-12 03:28:03,327 [INFO] Backtest complete. Final portfolio value: 944717.11
+2025-04-12 03:28:03,329 [INFO] Backtest complete. Final portfolio value: 944717.11
+2025-04-12 03:28:31,690 [INFO] Loading NIFTY data...
+2025-04-12 03:28:32,303 [INFO] Adding technical indicators...
+2025-04-12 03:28:32,384 [INFO] Fitting HMM model for regime detection...
+2025-04-12 03:28:33,011 [INFO] Plotting HMM regimes...
+2025-04-12 03:28:33,792 [INFO] Regime plot saved.
+2025-04-12 03:28:33,793 [INFO] Running regime-based strategy...
+2025-04-12 03:28:33,983 [INFO] Displaying frequency of (Signal, Regime) combinations:
+2025-04-12 03:28:33,991 [INFO] Backtesting strategy...
+2025-04-12 03:28:33,992 [INFO] Starting backtest engine with ML signals...
+2025-04-12 03:28:34,550 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 03:28:34,550 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 03:28:34,551 [INFO] Backtest completed and plot saved.
+2025-04-12 03:28:34,551 [INFO] Sharpe Ratio: -0.41
+2025-04-12 03:28:34,552 [INFO] Sortino Ratio: -0.04
+2025-04-12 03:28:34,552 [INFO] Max Drawdown: -4.82%
+2025-04-12 03:28:34,552 [INFO] Backtest completed and plot saved.
+2025-04-12 03:28:34,553 [INFO] Backtest complete. Final portfolio value: 961848.08
+2025-04-12 03:28:34,555 [INFO] Backtest complete. Final portfolio value: 961848.08
+2025-04-12 03:37:47,618 [INFO] Loading NIFTY data...
+2025-04-12 03:37:48,294 [INFO] Adding technical indicators...
+2025-04-12 03:37:48,374 [INFO] Fitting HMM model for regime detection...
+2025-04-12 03:37:48,957 [INFO] Plotting HMM regimes...
+2025-04-12 03:37:49,974 [INFO] Regime plot saved.
+2025-04-12 03:37:49,975 [INFO] Training ML classifier for signal generation...
+2025-04-12 03:41:01,591 [INFO] Loading NIFTY data...
+2025-04-12 03:41:02,231 [INFO] Adding technical indicators...
+2025-04-12 03:41:02,308 [INFO] Fitting HMM model for regime detection...
+2025-04-12 03:41:03,877 [INFO] Plotting HMM regimes...
+2025-04-12 03:41:04,686 [INFO] Regime plot saved.
+2025-04-12 03:41:04,686 [INFO] Training ML classifier for signal generation...
+2025-04-12 03:41:23,521 [INFO] Loading NIFTY data...
+2025-04-12 03:41:24,240 [INFO] Adding technical indicators...
+2025-04-12 03:41:24,309 [INFO] Fitting HMM model for regime detection...
+2025-04-12 03:41:24,763 [INFO] Plotting HMM regimes...
+2025-04-12 03:41:25,724 [INFO] Regime plot saved.
+2025-04-12 03:41:25,724 [INFO] Training ML classifier for signal generation...
+2025-04-12 03:41:46,973 [INFO] Loading NIFTY data...
+2025-04-12 03:41:47,601 [INFO] Adding technical indicators...
+2025-04-12 03:41:47,692 [INFO] Fitting HMM model for regime detection...
+2025-04-12 03:41:48,475 [INFO] Plotting HMM regimes...
+2025-04-12 03:41:49,535 [INFO] Regime plot saved.
+2025-04-12 03:41:49,536 [INFO] Training ML classifier for signal generation...
+2025-04-12 03:41:52,594 [INFO] Displaying frequency of (Signal, Regime) combinations:
+2025-04-12 03:41:52,603 [INFO] Backtesting strategy...
+2025-04-12 03:41:52,604 [INFO] Starting backtest engine with ML signals...
+2025-04-12 03:41:53,265 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 03:41:53,266 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 03:41:53,266 [INFO] Backtest completed and plot saved.
+2025-04-12 03:41:53,268 [INFO] Sharpe Ratio: 0.00
+2025-04-12 03:41:53,268 [INFO] Sortino Ratio: nan
+2025-04-12 03:41:53,269 [INFO] Max Drawdown: 0.00%
+2025-04-12 03:41:53,269 [INFO] Backtest completed and plot saved.
+2025-04-12 03:41:53,270 [INFO] Backtest complete. Final portfolio value: 1000000.00
+2025-04-12 03:41:53,273 [INFO] Backtest complete. Final portfolio value: 1000000.00
+2025-04-12 03:43:54,959 [INFO] Loading NIFTY data...
+2025-04-12 03:43:55,517 [INFO] Adding technical indicators...
+2025-04-12 03:43:55,584 [INFO] Fitting HMM model for regime detection...
+2025-04-12 03:43:56,292 [INFO] Plotting HMM regimes...
+2025-04-12 03:43:57,134 [INFO] Regime plot saved.
+2025-04-12 03:43:57,135 [INFO] Training ML classifier for signal generation...
+2025-04-12 03:43:59,372 [INFO] Displaying frequency of (Signal, Regime) combinations:
+2025-04-12 03:43:59,962 [INFO] Signal plot saved to: plots/signals_plot.png
+2025-04-12 03:43:59,976 [INFO] Backtesting strategy...
+2025-04-12 03:43:59,977 [INFO] Starting backtest engine with ML signals...
+2025-04-12 03:44:00,498 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 03:44:00,499 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 03:44:00,499 [INFO] Backtest completed and plot saved.
+2025-04-12 03:44:00,500 [INFO] Sharpe Ratio: 0.76
+2025-04-12 03:44:00,500 [INFO] Sortino Ratio: 0.86
+2025-04-12 03:44:00,500 [INFO] Max Drawdown: -37.24%
+2025-04-12 03:44:00,501 [INFO] Backtest completed and plot saved.
+2025-04-12 03:44:00,501 [INFO] Backtest complete. Final portfolio value: 1895146.12
+2025-04-12 03:44:00,503 [INFO] Backtest complete. Final portfolio value: 1895146.12
+2025-04-12 03:51:29,747 [INFO] Loading NIFTY data...
+2025-04-12 03:51:30,360 [INFO] Adding technical indicators...
+2025-04-12 03:51:30,433 [INFO] Fitting HMM model for regime detection...
+2025-04-12 03:51:31,032 [INFO] Plotting HMM regimes...
+2025-04-12 03:51:31,783 [INFO] Regime plot saved.
+2025-04-12 03:51:31,784 [INFO] Training ML classifier for signal generation...
+2025-04-12 03:51:34,232 [INFO] Displaying frequency of (Signal, Regime) combinations:
+2025-04-12 03:51:34,823 [INFO] Signal plot saved to: plots/signals_plot.png
+2025-04-12 03:51:34,837 [INFO] Backtesting strategy...
+2025-04-12 03:51:34,837 [INFO] Starting backtest engine with ML signals...
+2025-04-12 03:51:35,354 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 03:51:35,354 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 03:51:35,355 [INFO] Backtest completed and plot saved.
+2025-04-12 03:51:35,355 [INFO] Sharpe Ratio: 0.76
+2025-04-12 03:51:35,356 [INFO] Sortino Ratio: 0.86
+2025-04-12 03:51:35,356 [INFO] Max Drawdown: -37.24%
+2025-04-12 03:51:35,356 [INFO] Backtest completed and plot saved.
+2025-04-12 03:51:35,357 [INFO] Backtest complete. Final portfolio value: 1895146.12
+2025-04-12 03:51:35,359 [INFO] Backtest complete. Final portfolio value: 1895146.12
+2025-04-12 03:54:37,530 [INFO] Loading NIFTY data...
+2025-04-12 03:54:38,107 [INFO] Adding technical indicators...
+2025-04-12 03:54:38,282 [INFO] Fitting HMM model for regime detection...
+2025-04-12 03:54:38,889 [INFO] Auto-selected regimes based on Sharpe: [3, 0]
+2025-04-12 03:54:38,889 [INFO] Plotting HMM regimes...
+2025-04-12 03:54:39,722 [INFO] Regime plot saved.
+2025-04-12 03:54:39,723 [INFO] Training ML classifier for signal generation...
+2025-04-12 03:54:42,166 [INFO] Displaying frequency of (Signal, Regime) combinations:
+2025-04-12 03:54:42,769 [INFO] Signal plot saved to: plots/signals_plot.png
+2025-04-12 03:54:42,788 [INFO] Backtesting strategy...
+2025-04-12 03:54:42,836 [INFO] Starting backtest engine with ML signals...
+2025-04-12 03:54:43,330 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 03:54:43,331 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 03:54:43,331 [INFO] Backtest completed and plot saved.
+2025-04-12 03:54:43,331 [INFO] Sharpe Ratio: 1.62
+2025-04-12 03:54:43,332 [INFO] Sortino Ratio: 1.33
+2025-04-12 03:54:43,332 [INFO] Max Drawdown: -6.03%
+2025-04-12 03:54:43,333 [INFO] Backtest completed and plot saved.
+2025-04-12 03:54:43,333 [INFO] Backtest complete. Final portfolio value: 1987652.73
+2025-04-12 03:54:43,335 [INFO] Backtest complete. Final portfolio value: 1987652.73
+2025-04-12 03:56:06,943 [INFO] Loading NIFTY data...
+2025-04-12 03:56:07,645 [INFO] Adding technical indicators...
+2025-04-12 03:56:07,721 [INFO] Fitting HMM model for regime detection...
+2025-04-12 03:56:08,296 [INFO] Auto-selected regimes based on Sharpe: [1, 0]
+2025-04-12 03:56:08,296 [INFO] Plotting HMM regimes...
+2025-04-12 03:56:09,130 [INFO] Regime plot saved.
+2025-04-12 03:56:09,131 [INFO] Training ML classifier for signal generation...
+2025-04-12 03:56:11,324 [INFO] Displaying frequency of (Signal, Regime) combinations:
+2025-04-12 03:56:11,902 [INFO] Signal plot saved to: plots/signals_plot.png
+2025-04-12 03:56:11,917 [INFO] Backtesting strategy...
+2025-04-12 03:56:11,975 [INFO] Starting backtest engine with ML signals...
+2025-04-12 03:56:12,556 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 03:56:12,557 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 03:56:12,559 [INFO] Backtest completed and plot saved.
+2025-04-12 03:56:12,559 [INFO] Sharpe Ratio: 1.98
+2025-04-12 03:56:12,560 [INFO] Sortino Ratio: 1.80
+2025-04-12 03:56:12,560 [INFO] Max Drawdown: -6.81%
+2025-04-12 03:56:12,561 [INFO] Backtest completed and plot saved.
+2025-04-12 03:56:12,561 [INFO] Backtest complete. Final portfolio value: 2647919.78
+2025-04-12 03:56:12,563 [INFO] Backtest complete. Final portfolio value: 2647919.78
+2025-04-12 03:56:12,638 [INFO] ROI: 164.79%
+2025-04-12 03:56:12,638 [INFO] ROR (Rate of Return): 164.79%
+2025-04-12 03:57:44,562 [INFO] Loading NIFTY data...
+2025-04-12 03:57:45,127 [INFO] Adding technical indicators...
+2025-04-12 03:57:45,199 [INFO] Fitting HMM model for regime detection...
+2025-04-12 03:57:45,800 [INFO] Auto-selected regimes based on Sharpe: [4, 3]
+2025-04-12 03:57:45,800 [INFO] Plotting HMM regimes...
+2025-04-12 03:57:46,612 [INFO] Regime plot saved.
+2025-04-12 03:57:46,612 [INFO] Training ML classifier for signal generation...
+2025-04-12 03:57:48,839 [INFO] Displaying frequency of (Signal, Regime) combinations:
+2025-04-12 03:57:49,442 [INFO] Signal plot saved to: plots/signals_plot.png
+2025-04-12 03:57:49,455 [INFO] Backtesting strategy...
+2025-04-12 03:57:49,508 [INFO] Starting backtest engine with ML signals...
+2025-04-12 03:57:50,015 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 03:57:50,015 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 03:57:50,015 [INFO] Backtest completed and plot saved.
+2025-04-12 03:57:50,016 [INFO] Sharpe Ratio: 1.61
+2025-04-12 03:57:50,016 [INFO] Sortino Ratio: 1.22
+2025-04-12 03:57:50,016 [INFO] Max Drawdown: -10.51%
+2025-04-12 03:57:50,017 [INFO] Backtest completed and plot saved.
+2025-04-12 03:57:50,018 [INFO] Backtest complete. Final portfolio value: 2103219.03
+2025-04-12 03:57:50,019 [INFO] Backtest complete. Final portfolio value: 2103219.03
+2025-04-12 03:57:50,020 [INFO] Absolute Return: Rs. 1103219.03
+2025-04-12 03:57:50,021 [INFO] ROI: 110.32%
+2025-04-12 04:00:49,577 [INFO] Loading NIFTY data...
+2025-04-12 04:00:50,251 [INFO] Adding technical indicators...
+2025-04-12 04:00:50,327 [INFO] Fitting HMM model for regime detection...
+2025-04-12 04:00:50,845 [INFO] Auto-selected regimes based on Sharpe: [4, 1]
+2025-04-12 04:00:50,846 [INFO] Plotting HMM regimes...
+2025-04-12 04:00:51,675 [INFO] Regime plot saved.
+2025-04-12 04:00:51,676 [INFO] Training ML classifier for signal generation...
+2025-04-12 04:00:54,039 [INFO] Displaying frequency of (Signal, Regime) combinations:
+2025-04-12 04:00:54,622 [INFO] Signal plot saved to: plots/signals_plot.png
+2025-04-12 04:00:54,634 [INFO] Backtesting strategy...
+2025-04-12 04:00:54,682 [INFO] Starting backtest engine with ML signals...
+2025-04-12 04:00:55,226 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 04:00:55,226 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 04:00:55,227 [INFO] Backtest completed and plot saved.
+2025-04-12 04:00:55,227 [INFO] Sharpe Ratio: 1.98
+2025-04-12 04:00:55,227 [INFO] Sortino Ratio: 1.79
+2025-04-12 04:00:55,228 [INFO] Max Drawdown: -6.17%
+2025-04-12 04:00:55,228 [INFO] Backtest completed and plot saved.
+2025-04-12 04:00:55,229 [INFO] Backtest complete. Final portfolio value: 2644816.54
+2025-04-12 04:00:55,231 [INFO] Backtest complete. Final portfolio value: 2644816.54
+2025-04-12 04:00:55,231 [INFO] Absolute Return: Rs. 1644816.54
+2025-04-12 04:00:55,232 [INFO] ROI: 164.48%
+2025-04-12 04:00:55,233 [INFO] Annualized ROI: 20.80%
+2025-04-12 04:00:55,233 [INFO] CAGR (Compounded Annual Growth Rate): 20.80%
+2025-04-12 04:02:56,201 [INFO] Loading NIFTY data...
+2025-04-12 04:02:56,782 [INFO] Adding technical indicators...
+2025-04-12 04:02:56,865 [INFO] Fitting HMM model for regime detection...
+2025-04-12 04:02:57,275 [INFO] Auto-selected regimes based on Sharpe: [2, 4]
+2025-04-12 04:02:57,275 [INFO] Plotting HMM regimes...
+2025-04-12 04:02:58,123 [INFO] Regime plot saved.
+2025-04-12 04:02:58,124 [INFO] Training ML classifier for signal generation...
+2025-04-12 04:03:00,479 [INFO] Displaying frequency of (Signal, Regime) combinations:
+2025-04-12 04:03:01,065 [INFO] Signal plot saved to: plots/signals_plot.png
+2025-04-12 04:03:01,076 [INFO] Backtesting strategy...
+2025-04-12 04:03:01,124 [INFO] Starting backtest engine with ML signals...
+2025-04-12 04:03:01,611 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 04:03:01,611 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 04:03:01,612 [INFO] Backtest completed and plot saved.
+2025-04-12 04:03:01,612 [INFO] Sharpe Ratio: 1.42
+2025-04-12 04:03:01,613 [INFO] Sortino Ratio: 0.95
+2025-04-12 04:03:01,613 [INFO] Max Drawdown: -10.51%
+2025-04-12 04:03:01,613 [INFO] Backtest completed and plot saved.
+2025-04-12 04:03:01,614 [INFO] Backtest complete. Final portfolio value: 1908699.27
+2025-04-12 04:03:01,616 [INFO] Backtest complete. Final portfolio value: 1908699.27
+2025-04-12 04:03:01,617 [INFO] Absolute Return: Rs. 908699.27
+2025-04-12 04:03:01,618 [INFO] ROI: 90.87%
+2025-04-12 04:03:01,619 [INFO] Annualized ROI: 13.38%
+2025-04-12 04:03:01,619 [INFO] CAGR (Compounded Annual Growth Rate): 13.38%
+2025-04-12 04:09:56,695 [INFO] Loading NIFTY data...
+2025-04-12 04:09:57,306 [INFO] Adding technical indicators...
+2025-04-12 04:09:57,389 [INFO] Fitting HMM model for regime detection...
+2025-04-12 04:09:57,889 [INFO] Auto-selected regimes based on Sharpe: [2, 0]
+2025-04-12 04:09:57,891 [INFO] Plotting HMM regimes...
+2025-04-12 04:09:58,625 [INFO] Regime plot saved.
+2025-04-12 04:09:58,625 [INFO] Training ML classifier for signal generation...
+2025-04-12 04:11:39,418 [INFO] Loading NIFTY data...
+2025-04-12 04:11:40,142 [INFO] Adding technical indicators...
+2025-04-12 04:11:40,216 [INFO] Fitting HMM model for regime detection...
+2025-04-12 04:11:40,698 [INFO] Auto-selected regimes based on Sharpe: [2, 0]
+2025-04-12 04:11:40,698 [INFO] Plotting HMM regimes...
+2025-04-12 04:11:41,511 [INFO] Regime plot saved.
+2025-04-12 04:11:41,512 [INFO] Training ML classifier for signal generation...
+2025-04-12 04:11:41,695 [INFO] [INFO] Fold 1 Accuracy: 0.5566
+2025-04-12 04:11:41,854 [INFO] [INFO] Fold 2 Accuracy: 0.5566
+2025-04-12 04:11:42,020 [INFO] [INFO] Fold 3 Accuracy: 0.5755
+2025-04-12 04:11:42,189 [INFO] [INFO] Fold 4 Accuracy: 0.4670
+2025-04-12 04:11:42,360 [INFO] [INFO] Fold 5 Accuracy: 0.5000
+2025-04-12 04:11:42,384 [INFO] Displaying frequency of (Signal, Regime) combinations:
+2025-04-12 04:11:43,116 [INFO] Signal plot saved to: plots/signals_plot.png
+2025-04-12 04:11:43,131 [INFO] Backtesting strategy...
+2025-04-12 04:11:43,180 [INFO] Starting backtest engine with ML signals...
+2025-04-12 04:11:43,685 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 04:11:43,686 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 04:11:43,686 [INFO] Backtest completed and plot saved.
+2025-04-12 04:11:43,687 [INFO] Sharpe Ratio: 7.70
+2025-04-12 04:11:43,687 [INFO] Sortino Ratio: 7.65
+2025-04-12 04:11:43,687 [INFO] Max Drawdown: -10.75%
+2025-04-12 04:11:43,688 [INFO] Backtest completed and plot saved.
+2025-04-12 04:11:43,689 [INFO] Backtest complete. Final portfolio value: 25796085.96
+2025-04-12 04:11:43,691 [INFO] Backtest complete. Final portfolio value: 25796085.96
+2025-04-12 04:11:43,692 [INFO] Absolute Return: Rs. 24796085.96
+2025-04-12 04:11:43,693 [INFO] ROI: 2479.61%
+2025-04-12 04:11:43,694 [INFO] Annualized ROI: 88.10%
+2025-04-12 04:11:43,694 [INFO] CAGR (Compounded Annual Growth Rate): 88.10%
+2025-04-12 04:12:17,831 [INFO] Loading NIFTY data...
+2025-04-12 04:12:18,531 [INFO] Adding technical indicators...
+2025-04-12 04:12:18,630 [INFO] Fitting HMM model for regime detection...
+2025-04-12 04:12:19,236 [INFO] Auto-selected regimes based on Sharpe: [2, 0]
+2025-04-12 04:12:19,236 [INFO] Plotting HMM regimes...
+2025-04-12 04:12:20,215 [INFO] Regime plot saved.
+2025-04-12 04:12:20,216 [INFO] Training ML classifier for signal generation...
+2025-04-12 04:12:20,399 [INFO] [INFO] Fold 1 Accuracy: 0.5566
+2025-04-12 04:12:20,585 [INFO] [INFO] Fold 2 Accuracy: 0.5566
+2025-04-12 04:12:20,784 [INFO] [INFO] Fold 3 Accuracy: 0.5755
+2025-04-12 04:12:20,997 [INFO] [INFO] Fold 4 Accuracy: 0.4670
+2025-04-12 04:12:21,214 [INFO] [INFO] Fold 5 Accuracy: 0.5000
+2025-04-12 04:12:21,241 [INFO] Displaying frequency of (Signal, Regime) combinations:
+2025-04-12 04:12:22,418 [INFO] Signal plot saved to: plots/signals_plot.png
+2025-04-12 04:12:22,437 [INFO] Backtesting strategy...
+2025-04-12 04:12:22,510 [INFO] Starting backtest engine with ML signals...
+2025-04-12 04:12:23,212 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 04:12:23,212 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 04:12:23,213 [INFO] Backtest completed and plot saved.
+2025-04-12 04:12:23,213 [INFO] Sharpe Ratio: 7.70
+2025-04-12 04:12:23,214 [INFO] Sortino Ratio: 7.65
+2025-04-12 04:12:23,214 [INFO] Max Drawdown: -10.75%
+2025-04-12 04:12:23,215 [INFO] Backtest completed and plot saved.
+2025-04-12 04:12:23,216 [INFO] Backtest complete. Final portfolio value: 25796085.96
+2025-04-12 04:12:23,218 [INFO] Backtest complete. Final portfolio value: 25796085.96
+2025-04-12 04:12:23,219 [INFO] Absolute Return: Rs. 24796085.96
+2025-04-12 04:12:23,219 [INFO] ROI: 2479.61%
+2025-04-12 04:12:23,221 [INFO] Annualized ROI: 88.10%
+2025-04-12 04:12:23,221 [INFO] CAGR (Compounded Annual Growth Rate): 88.10%
+2025-04-12 14:57:34,553 [INFO] Loading NIFTY data...
+2025-04-12 14:57:34,553 [INFO] Loading NIFTY data...
+2025-04-12 14:57:38,658 [INFO] Adding technical indicators...
+2025-04-12 14:57:38,659 [INFO] Adding technical indicators...
+2025-04-12 14:57:38,904 [INFO] Fitting HMM model for regime detection...
+2025-04-12 14:57:39,568 [INFO] Auto-selected regimes based on Sharpe: [2, 0]
+2025-04-12 14:57:39,569 [INFO] Plotting HMM regimes...
+2025-04-12 14:57:39,569 [INFO] Plotting HMM regimes...
+2025-04-12 14:57:41,790 [INFO] Regime plot saved.
+2025-04-12 14:57:41,791 [INFO] Training ML classifier for signal generation...
+2025-04-12 14:57:41,974 [INFO] Regime plot saved.
+2025-04-12 14:57:41,974 [INFO] Training ML classifier for signal generation...
+2025-04-12 14:57:42,045 [INFO] [INFO] Fold 1 Accuracy: 0.7273
+2025-04-12 14:57:42,095 [INFO] [INFO] Fold 1 Accuracy: 0.7273
+2025-04-12 14:57:42,273 [INFO] [INFO] Fold 2 Accuracy: 0.3636
+2025-04-12 14:57:42,336 [INFO] [INFO] Fold 2 Accuracy: 0.3636
+2025-04-12 14:57:42,378 [INFO] [INFO] Fold 3 Accuracy: 0.4545
+2025-04-12 14:57:42,441 [INFO] [INFO] Fold 3 Accuracy: 0.4545
+2025-04-12 14:57:42,605 [INFO] [INFO] Fold 4 Accuracy: 0.5455
+2025-04-12 14:57:42,606 [INFO] [INFO] Fold 4 Accuracy: 0.5455
+2025-04-12 14:57:42,710 [INFO] [INFO] Fold 5 Accuracy: 0.6364
+2025-04-12 14:57:42,714 [INFO] [INFO] Fold 5 Accuracy: 0.6364
+2025-04-12 14:57:42,723 [INFO] Displaying frequency of (Signal, Regime) combinations:
+2025-04-12 14:57:42,728 [INFO] Displaying frequency of (Signal, Regime) combinations:
+2025-04-12 14:57:43,354 [INFO] Signal plot saved to: plots/signals_plot.png
+2025-04-12 14:57:43,354 [INFO] Signal plot saved to: plots/signals_plot.png
+2025-04-12 14:57:43,379 [INFO] Backtesting strategy...
+2025-04-12 14:57:43,382 [INFO] Backtesting strategy...
+2025-04-12 14:57:44,004 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 14:57:44,005 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 14:57:44,005 [INFO] Backtest completed and plot saved.
+2025-04-12 14:57:44,006 [INFO] Sharpe Ratio: 3.16
+2025-04-12 14:57:44,006 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 14:57:44,006 [INFO] Sortino Ratio: 16512872.94
+2025-04-12 14:57:44,006 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 14:57:44,007 [INFO] Max Drawdown: -0.15%
+2025-04-12 14:57:44,007 [INFO] Backtest completed and plot saved.
+2025-04-12 14:57:44,007 [INFO] Backtest completed and plot saved.
+2025-04-12 14:57:44,007 [INFO] Sharpe Ratio: 3.16
+2025-04-12 14:57:44,008 [INFO] Sortino Ratio: 16512872.94
+2025-04-12 14:57:44,008 [INFO] Max Drawdown: -0.15%
+2025-04-12 14:57:44,009 [INFO] Backtest completed and plot saved.
+2025-04-12 14:57:44,027 [INFO] 
+Signal  Regime
+ 0.0    3         51
+        1          8
+-1.0    0          3
+ 0.0    4          3
+ 1.0    0          1
+Name: count, dtype: int64
+2025-04-12 14:57:44,030 [INFO] Backtest complete. Final portfolio value: 1070095.80
+2025-04-12 14:57:44,033 [INFO] Absolute Return: Rs. 70095.80
+2025-04-12 14:57:44,035 [INFO] ROI: 7.01%
+2025-04-12 14:57:44,036 [INFO] Annualized ROI: 27.76%
+2025-04-12 14:57:44,037 [INFO] CAGR (Compounded Annual Growth Rate): 27.76%
+2025-04-12 14:57:44,038 [INFO] 
+Signal  Regime
+ 0.0    3         51
+        1          8
+-1.0    0          3
+ 0.0    4          3
+ 1.0    0          1
+Name: count, dtype: int64
+2025-04-12 14:57:44,043 [INFO] Backtest complete. Final portfolio value: 1070095.80
+2025-04-12 14:57:44,044 [INFO] Absolute Return: Rs. 70095.80
+2025-04-12 14:57:44,044 [INFO] ROI: 7.01%
+2025-04-12 14:57:44,046 [INFO] Annualized ROI: 27.76%
+2025-04-12 14:57:44,047 [INFO] CAGR (Compounded Annual Growth Rate): 27.76%
+2025-04-12 14:59:11,241 [INFO] Loading NIFTY data...
+2025-04-12 14:59:12,210 [INFO] Adding technical indicators...
+2025-04-12 14:59:12,334 [INFO] Fitting HMM model for regime detection...
+2025-04-12 14:59:12,911 [INFO] Auto-selected regimes based on Sharpe: [2, 0]
+2025-04-12 14:59:12,912 [INFO] Plotting HMM regimes...
+2025-04-12 14:59:13,753 [INFO] Regime plot saved.
+2025-04-12 14:59:13,754 [INFO] Training ML classifier for signal generation...
+2025-04-12 14:59:13,877 [INFO] [INFO] Fold 1 Accuracy: 0.7273
+2025-04-12 14:59:13,971 [INFO] [INFO] Fold 2 Accuracy: 0.3636
+2025-04-12 14:59:14,068 [INFO] [INFO] Fold 3 Accuracy: 0.4545
+2025-04-12 14:59:14,164 [INFO] [INFO] Fold 4 Accuracy: 0.5455
+2025-04-12 14:59:14,262 [INFO] [INFO] Fold 5 Accuracy: 0.6364
+2025-04-12 14:59:14,277 [INFO] Displaying frequency of (Signal, Regime) combinations:
+2025-04-12 14:59:14,819 [INFO] Signal plot saved to: plots/signals_plot.png
+2025-04-12 14:59:14,835 [INFO] Backtesting strategy...
+2025-04-12 14:59:15,375 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 14:59:15,376 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 14:59:15,376 [INFO] Backtest completed and plot saved.
+2025-04-12 14:59:15,377 [INFO] Sharpe Ratio: 3.16
+2025-04-12 14:59:15,377 [INFO] Sortino Ratio: 16512872.94
+2025-04-12 14:59:15,378 [INFO] Max Drawdown: -0.15%
+2025-04-12 14:59:15,379 [INFO] Backtest completed and plot saved.
+2025-04-12 14:59:15,391 [INFO] 
+Signal  Regime
+ 0.0    3         51
+        1          8
+-1.0    0          3
+ 0.0    4          3
+ 1.0    0          1
+Name: count, dtype: int64
+2025-04-12 14:59:15,393 [INFO] Backtest complete. Final portfolio value: 1070095.80
+2025-04-12 14:59:15,393 [INFO] Absolute Return: Rs. 70095.80
+2025-04-12 14:59:15,394 [INFO] ROI: 7.01%
+2025-04-12 14:59:15,394 [INFO] Annualized ROI: 27.76%
+2025-04-12 14:59:15,394 [INFO] CAGR (Compounded Annual Growth Rate): 27.76%
+2025-04-12 14:59:57,117 [INFO] Loading NIFTY data...
+2025-04-12 14:59:58,858 [INFO] Adding technical indicators...
+2025-04-12 14:59:58,981 [INFO] Fitting HMM model for regime detection...
+2025-04-12 14:59:59,470 [INFO] Auto-selected regimes based on Sharpe: [2, 0]
+2025-04-12 14:59:59,471 [INFO] Plotting HMM regimes...
+2025-04-12 15:00:00,341 [INFO] Regime plot saved.
+2025-04-12 15:00:00,341 [INFO] Training ML classifier for signal generation...
+2025-04-12 15:00:00,497 [INFO] [INFO] Fold 1 Accuracy: 0.4545
+2025-04-12 15:00:00,614 [INFO] [INFO] Fold 2 Accuracy: 0.5758
+2025-04-12 15:00:00,743 [INFO] [INFO] Fold 3 Accuracy: 0.4848
+2025-04-12 15:00:00,897 [INFO] [INFO] Fold 4 Accuracy: 0.5303
+2025-04-12 15:00:01,062 [INFO] [INFO] Fold 5 Accuracy: 0.5758
+2025-04-12 15:00:01,076 [INFO] Displaying frequency of (Signal, Regime) combinations:
+2025-04-12 15:00:01,717 [INFO] Signal plot saved to: plots/signals_plot.png
+2025-04-12 15:00:01,731 [INFO] Backtesting strategy...
+2025-04-12 15:00:02,319 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 15:00:02,319 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 15:00:02,320 [INFO] Backtest completed and plot saved.
+2025-04-12 15:00:02,320 [INFO] Sharpe Ratio: 7.72
+2025-04-12 15:00:02,321 [INFO] Sortino Ratio: 13.98
+2025-04-12 15:00:02,321 [INFO] Max Drawdown: -7.70%
+2025-04-12 15:00:02,321 [INFO] Backtest completed and plot saved.
+2025-04-12 15:00:02,336 [INFO] 
+Signal  Regime
+ 1.0    2         123
+ 0.0    1         121
+-1.0    2          64
+ 0.0    4          45
+ 1.0    0          28
+-1.0    0          17
+Name: count, dtype: int64
+2025-04-12 15:00:02,337 [INFO] Backtest complete. Final portfolio value: 2724168.77
+2025-04-12 15:00:02,338 [INFO] Absolute Return: Rs. 1724168.77
+2025-04-12 15:00:02,338 [INFO] ROI: 172.42%
+2025-04-12 15:00:02,339 [INFO] Annualized ROI: 88.38%
+2025-04-12 15:00:02,339 [INFO] CAGR (Compounded Annual Growth Rate): 88.38%
+2025-04-12 15:01:18,933 [INFO] Loading NIFTY data...
+2025-04-12 15:01:19,646 [INFO] Adding technical indicators...
+2025-04-12 15:01:19,773 [INFO] Fitting HMM model for regime detection...
+2025-04-12 15:01:20,268 [INFO] Auto-selected regimes based on Sharpe: [2, 0, 4]
+2025-04-12 15:01:20,281 [INFO] 
+Regime ranking based on Sharpe:
+            mean       std    sharpe
+Regime                              
+2       0.002596  0.007522  0.345155
+0       0.000097  0.007561  0.012834
+4      -0.000126  0.007133 -0.017675
+1      -0.000429  0.014304 -0.030006
+3      -0.002491  0.038553 -0.064623
+2025-04-12 15:01:20,282 [INFO] Plotting HMM regimes...
+2025-04-12 15:01:21,139 [INFO] Regime plot saved.
+2025-04-12 15:01:21,142 [INFO] Training ML classifier for signal generation...
+2025-04-12 15:01:21,289 [INFO] [INFO] Fold 1 Accuracy: 0.4545
+2025-04-12 15:01:21,427 [INFO] [INFO] Fold 2 Accuracy: 0.5758
+2025-04-12 15:01:21,559 [INFO] [INFO] Fold 3 Accuracy: 0.4848
+2025-04-12 15:01:21,702 [INFO] [INFO] Fold 4 Accuracy: 0.5303
+2025-04-12 15:01:21,855 [INFO] [INFO] Fold 5 Accuracy: 0.5758
+2025-04-12 15:01:21,870 [INFO] Displaying frequency of (Signal, Regime) combinations:
+2025-04-12 15:01:22,456 [INFO] Signal plot saved to: plots/signals_plot.png
+2025-04-12 15:01:22,469 [INFO] Backtesting strategy...
+2025-04-12 15:01:23,032 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 15:01:23,033 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 15:01:23,033 [INFO] Backtest completed and plot saved.
+2025-04-12 15:01:23,034 [INFO] Sharpe Ratio: 8.97
+2025-04-12 15:01:23,034 [INFO] Sortino Ratio: 12.67
+2025-04-12 15:01:23,035 [INFO] Max Drawdown: -5.67%
+2025-04-12 15:01:23,035 [INFO] Backtest completed and plot saved.
+2025-04-12 15:01:23,049 [INFO] 
+Signal  Regime
+ 1.0    2         123
+ 0.0    1         121
+-1.0    2          64
+ 1.0    4          29
+        0          28
+-1.0    0          17
+        4          16
+Name: count, dtype: int64
+2025-04-12 15:01:23,051 [INFO] Backtest complete. Final portfolio value: 3435191.26
+2025-04-12 15:01:23,052 [INFO] Absolute Return: Rs. 2435191.26
+2025-04-12 15:01:23,053 [INFO] ROI: 243.52%
+2025-04-12 15:01:23,053 [INFO] Annualized ROI: 118.11%
+2025-04-12 15:01:23,054 [INFO] CAGR (Compounded Annual Growth Rate): 118.11%
+2025-04-12 15:02:37,688 [INFO] Loading NIFTY data...
+2025-04-12 15:02:38,308 [INFO] Adding technical indicators...
+2025-04-12 15:02:38,486 [INFO] Fitting HMM model for regime detection...
+2025-04-12 15:02:39,037 [INFO] Auto-selected regimes based on Sharpe: [2, 0, 4, 1, 3]
+2025-04-12 15:02:39,051 [INFO] 
+Regime ranking based on Sharpe:
+            mean       std    sharpe
+Regime                              
+2       0.002596  0.007522  0.345155
+0       0.000097  0.007561  0.012834
+4      -0.000126  0.007133 -0.017675
+1      -0.000429  0.014304 -0.030006
+3      -0.002491  0.038553 -0.064623
+2025-04-12 15:02:39,052 [INFO] Plotting HMM regimes...
+2025-04-12 15:02:39,802 [INFO] Regime plot saved.
+2025-04-12 15:02:39,803 [INFO] Training ML classifier for signal generation...
+2025-04-12 15:02:39,927 [INFO] [INFO] Fold 1 Accuracy: 0.4545
+2025-04-12 15:02:40,052 [INFO] [INFO] Fold 2 Accuracy: 0.5758
+2025-04-12 15:02:40,247 [INFO] [INFO] Fold 3 Accuracy: 0.4848
+2025-04-12 15:02:40,408 [INFO] [INFO] Fold 4 Accuracy: 0.5303
+2025-04-12 15:02:40,557 [INFO] [INFO] Fold 5 Accuracy: 0.5758
+2025-04-12 15:02:40,572 [INFO] Displaying frequency of (Signal, Regime) combinations:
+2025-04-12 15:02:41,156 [INFO] Signal plot saved to: plots/signals_plot.png
+2025-04-12 15:02:41,168 [INFO] Backtesting strategy...
+2025-04-12 15:02:41,700 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 15:02:41,700 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 15:02:41,701 [INFO] Backtest completed and plot saved.
+2025-04-12 15:02:41,701 [INFO] Sharpe Ratio: 11.95
+2025-04-12 15:02:41,701 [INFO] Sortino Ratio: 19.79
+2025-04-12 15:02:41,702 [INFO] Max Drawdown: -5.50%
+2025-04-12 15:02:41,702 [INFO] Backtest completed and plot saved.
+2025-04-12 15:02:41,717 [INFO] 
+Signal  Regime
+ 1.0    2         123
+        1          73
+-1.0    2          64
+        1          48
+ 1.0    4          29
+        0          28
+-1.0    0          17
+        4          16
+Name: count, dtype: int64
+2025-04-12 15:02:41,719 [INFO] Backtest complete. Final portfolio value: 9412107.60
+2025-04-12 15:02:41,719 [INFO] Absolute Return: Rs. 8412107.60
+2025-04-12 15:02:41,720 [INFO] ROI: 841.21%
+2025-04-12 15:02:41,720 [INFO] Annualized ROI: 312.38%
+2025-04-12 15:02:41,721 [INFO] CAGR (Compounded Annual Growth Rate): 312.38%
+2025-04-12 15:05:52,214 [INFO] Loading NIFTY data...
+2025-04-12 15:05:54,052 [INFO] Adding technical indicators...
+2025-04-12 15:05:54,178 [INFO] Fitting HMM model for regime detection...
+2025-04-12 15:05:54,693 [INFO] Auto-selected regimes based on Sharpe: [2, 0, 4, 1, 3]
+2025-04-12 15:05:54,702 [INFO] 
+Regime ranking based on Sharpe:
+            mean       std    sharpe
+Regime                              
+2       0.002596  0.007522  0.345155
+0       0.000097  0.007561  0.012834
+4      -0.000126  0.007133 -0.017675
+1      -0.000429  0.014304 -0.030006
+3      -0.002491  0.038553 -0.064623
+2025-04-12 15:05:54,703 [INFO] Plotting HMM regimes...
+2025-04-12 15:05:55,952 [INFO] Regime plot saved.
+2025-04-12 15:05:55,952 [INFO] Training ML classifier for signal generation...
+2025-04-12 15:05:56,146 [INFO] [INFO] Fold 1 Accuracy: 0.5000
+2025-04-12 15:05:56,289 [INFO] [INFO] Fold 2 Accuracy: 0.4717
+2025-04-12 15:05:56,442 [INFO] [INFO] Fold 3 Accuracy: 0.5566
+2025-04-12 15:05:56,597 [INFO] [INFO] Fold 4 Accuracy: 0.5189
+2025-04-12 15:05:56,754 [INFO] [INFO] Fold 5 Accuracy: 0.5660
+2025-04-12 15:05:56,767 [INFO] Displaying frequency of (Signal, Regime) combinations:
+2025-04-12 15:05:57,431 [INFO] Signal plot saved to: plots/signals_plot.png
+2025-04-12 15:05:57,448 [INFO] Backtesting strategy...
+2025-04-12 15:05:58,066 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 15:05:58,066 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 15:05:58,067 [INFO] Backtest completed and plot saved.
+2025-04-12 15:05:58,067 [INFO] Sharpe Ratio: 11.95
+2025-04-12 15:05:58,068 [INFO] Sortino Ratio: 24.39
+2025-04-12 15:05:58,068 [INFO] Max Drawdown: -4.82%
+2025-04-12 15:05:58,068 [INFO] Backtest completed and plot saved.
+2025-04-12 15:05:58,083 [INFO] 
+Signal  Regime
+ 1.0    2         107
+        4         105
+        0          99
+-1.0    1          73
+        0          70
+        2          67
+        4          64
+ 1.0    1          56
+Name: count, dtype: int64
+2025-04-12 15:05:58,085 [INFO] Backtest complete. Final portfolio value: 21945681.23
+2025-04-12 15:05:58,085 [INFO] Absolute Return: Rs. 20945681.23
+2025-04-12 15:05:58,086 [INFO] ROI: 2094.57%
+2025-04-12 15:05:58,087 [INFO] Annualized ROI: 231.62%
+2025-04-12 15:05:58,088 [INFO] CAGR (Compounded Annual Growth Rate): 231.62%
+2025-04-12 15:06:48,291 [INFO] Loading NIFTY data...
+2025-04-12 15:06:50,024 [INFO] Adding technical indicators...
+2025-04-12 15:06:50,142 [INFO] Fitting HMM model for regime detection...
+2025-04-12 15:06:50,646 [INFO] Auto-selected regimes based on Sharpe: [2, 0, 4, 1, 3]
+2025-04-12 15:06:50,658 [INFO] 
+Regime ranking based on Sharpe:
+            mean       std    sharpe
+Regime                              
+2       0.002596  0.007522  0.345155
+0       0.000097  0.007561  0.012834
+4      -0.000126  0.007133 -0.017675
+1      -0.000429  0.014304 -0.030006
+3      -0.002491  0.038553 -0.064623
+2025-04-12 15:06:50,660 [INFO] Plotting HMM regimes...
+2025-04-12 15:06:51,491 [INFO] Regime plot saved.
+2025-04-12 15:06:51,492 [INFO] Training ML classifier for signal generation...
+2025-04-12 15:06:51,652 [INFO] [INFO] Fold 1 Accuracy: 0.5000
+2025-04-12 15:06:51,790 [INFO] [INFO] Fold 2 Accuracy: 0.4717
+2025-04-12 15:06:51,934 [INFO] [INFO] Fold 3 Accuracy: 0.5566
+2025-04-12 15:06:52,090 [INFO] [INFO] Fold 4 Accuracy: 0.5189
+2025-04-12 15:06:52,243 [INFO] [INFO] Fold 5 Accuracy: 0.5660
+2025-04-12 15:06:52,260 [INFO] Displaying frequency of (Signal, Regime) combinations:
+2025-04-12 15:06:52,918 [INFO] Signal plot saved to: plots/signals_plot.png
+2025-04-12 15:06:52,931 [INFO] Backtesting strategy...
+2025-04-12 15:06:53,528 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 15:06:53,528 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 15:06:53,529 [INFO] Backtest completed and plot saved.
+2025-04-12 15:06:53,529 [INFO] Sharpe Ratio: 11.95
+2025-04-12 15:06:53,529 [INFO] Sortino Ratio: 24.39
+2025-04-12 15:06:53,530 [INFO] Max Drawdown: -4.82%
+2025-04-12 15:06:53,530 [INFO] Backtest completed and plot saved.
+2025-04-12 15:06:53,546 [INFO] 
+Signal  Regime
+ 1.0    2         107
+        4         105
+        0          99
+-1.0    1          73
+        0          70
+        2          67
+        4          64
+ 1.0    1          56
+Name: count, dtype: int64
+2025-04-12 15:06:53,547 [INFO] Backtest complete. Final portfolio value: 21945681.23
+2025-04-12 15:06:53,548 [INFO] Absolute Return: Rs. 20945681.23
+2025-04-12 15:06:53,548 [INFO] ROI: 2094.57%
+2025-04-12 15:06:53,549 [INFO] Annualized ROI: 231.62%
+2025-04-12 15:06:53,550 [INFO] CAGR (Compounded Annual Growth Rate): 231.62%
+2025-04-12 15:26:45,386 [INFO] Loading NIFTY data...
+2025-04-12 15:26:46,112 [INFO] Adding technical indicators...
+2025-04-12 15:26:46,230 [INFO] Fitting HMM model for regime detection...
+2025-04-12 15:26:46,733 [INFO] Auto-selected regimes based on Sharpe: [2, 0, 4, 1, 3]
+2025-04-12 15:26:46,743 [INFO] 
+Regime ranking based on Sharpe:
+            mean       std    sharpe
+Regime                              
+2       0.002596  0.007522  0.345155
+0       0.000097  0.007561  0.012834
+4      -0.000126  0.007133 -0.017675
+1      -0.000429  0.014304 -0.030006
+3      -0.002491  0.038553 -0.064623
+2025-04-12 15:26:46,744 [INFO] Plotting HMM regimes...
+2025-04-12 15:26:47,586 [INFO] Regime plot saved.
+2025-04-12 15:26:47,587 [INFO] Training ML classifier for signal generation...
+2025-04-12 15:26:47,733 [INFO] [INFO] Fold 1 Accuracy: 0.5000
+2025-04-12 15:26:47,867 [INFO] [INFO] Fold 2 Accuracy: 0.4717
+2025-04-12 15:26:48,012 [INFO] [INFO] Fold 3 Accuracy: 0.5566
+2025-04-12 15:26:48,163 [INFO] [INFO] Fold 4 Accuracy: 0.5189
+2025-04-12 15:26:48,315 [INFO] [INFO] Fold 5 Accuracy: 0.5660
+2025-04-12 15:26:48,330 [INFO] Displaying frequency of (Signal, Regime) combinations:
+2025-04-12 15:27:29,410 [INFO] Loading NIFTY data...
+2025-04-12 15:27:30,078 [INFO] Adding technical indicators...
+2025-04-12 15:27:30,193 [INFO] Fitting HMM model for regime detection...
+2025-04-12 15:27:30,764 [INFO] Auto-selected regimes based on Sharpe: [2, 0, 4, 1, 3]
+2025-04-12 15:27:30,773 [INFO] 
+Regime ranking based on Sharpe:
+            mean       std    sharpe
+Regime                              
+2       0.002596  0.007522  0.345155
+0       0.000097  0.007561  0.012834
+4      -0.000126  0.007133 -0.017675
+1      -0.000429  0.014304 -0.030006
+3      -0.002491  0.038553 -0.064623
+2025-04-12 15:27:30,774 [INFO] Plotting HMM regimes...
+2025-04-12 15:27:31,620 [INFO] Regime plot saved.
+2025-04-12 15:27:31,621 [INFO] Training ML classifier for signal generation...
+2025-04-12 15:27:31,798 [INFO] [INFO] Fold 1 Accuracy: 0.5566
+2025-04-12 15:27:31,951 [INFO] [INFO] Fold 2 Accuracy: 0.5566
+2025-04-12 15:27:32,110 [INFO] [INFO] Fold 3 Accuracy: 0.5755
+2025-04-12 15:27:32,271 [INFO] [INFO] Fold 4 Accuracy: 0.4670
+2025-04-12 15:27:32,438 [INFO] [INFO] Fold 5 Accuracy: 0.5000
+2025-04-12 15:27:32,458 [INFO] Displaying frequency of (Signal, Regime) combinations:
+2025-04-12 15:30:25,244 [INFO] Signal plot saved to: plots/signals_plot.png
+2025-04-12 15:30:25,266 [INFO] Backtesting strategy...
+2025-04-12 15:30:26,230 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 15:30:26,232 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 15:30:26,233 [INFO] Backtest completed and plot saved.
+2025-04-12 15:30:26,234 [INFO] Sharpe Ratio: 8.91
+2025-04-12 15:30:26,237 [INFO] Sortino Ratio: 16.51
+2025-04-12 15:30:26,238 [INFO] Max Drawdown: -29.15%
+2025-04-12 15:30:26,239 [INFO] Backtest completed and plot saved.
+2025-04-12 15:30:26,282 [INFO] 
+Signal  Regime
+ 1.0    2         238
+        0         156
+        4         155
+-1.0    2         139
+ 1.0    1         137
+-1.0    0         137
+        4         136
+        1         123
+ 1.0    3          26
+-1.0    3          25
+Name: count, dtype: int64
+2025-04-12 15:30:26,293 [INFO] Backtest complete. Final portfolio value: 1155535526.36
+2025-04-12 15:30:26,294 [INFO] Absolute Return: Rs. 1154535526.36
+2025-04-12 15:30:26,295 [INFO] ROI: 115453.55%
+2025-04-12 15:30:26,296 [INFO] Annualized ROI: 293.88%
+2025-04-12 15:30:26,296 [INFO] CAGR (Compounded Annual Growth Rate): 293.88%
+2025-04-12 15:33:29,074 [INFO] Loading NIFTY data...
+2025-04-12 15:33:29,981 [INFO] Adding technical indicators...
+2025-04-12 15:33:30,091 [INFO] Fitting HMM model for regime detection...
+2025-04-12 15:33:30,590 [INFO] Auto-selected regimes based on Sharpe: [2, 0, 4, 1, 3]
+2025-04-12 15:33:30,607 [INFO] 
+Regime ranking based on Sharpe:
+            mean       std    sharpe
+Regime                              
+2       0.002596  0.007522  0.345155
+0       0.000097  0.007561  0.012834
+4      -0.000126  0.007133 -0.017675
+1      -0.000429  0.014304 -0.030006
+3      -0.002491  0.038553 -0.064623
+2025-04-12 15:33:30,609 [INFO] Plotting HMM regimes...
+2025-04-12 15:33:31,427 [INFO] Regime plot saved.
+2025-04-12 15:33:31,428 [INFO] Training ML classifier for signal generation...
+2025-04-12 15:34:01,169 [INFO] Loading NIFTY data...
+2025-04-12 15:34:01,781 [INFO] Adding technical indicators...
+2025-04-12 15:34:01,896 [INFO] Fitting HMM model for regime detection...
+2025-04-12 15:34:02,363 [INFO] Auto-selected regimes based on Sharpe: [2, 0, 4, 1, 3]
+2025-04-12 15:34:02,363 [INFO] 
+Regime ranking based on Sharpe:
+            mean       std    sharpe
+Regime                              
+2       0.002596  0.007522  0.345155
+0       0.000097  0.007561  0.012834
+4      -0.000126  0.007133 -0.017675
+1      -0.000429  0.014304 -0.030006
+3      -0.002491  0.038553 -0.064623
+2025-04-12 15:34:02,363 [INFO] Plotting HMM regimes...
+2025-04-12 15:34:03,168 [INFO] Regime plot saved.
+2025-04-12 15:34:03,168 [INFO] Training ML classifier for signal generation...
+2025-04-12 15:34:48,685 [INFO] Loading NIFTY data...
+2025-04-12 15:34:49,326 [INFO] Adding technical indicators...
+2025-04-12 15:34:49,439 [INFO] Fitting HMM model for regime detection...
+2025-04-12 15:34:49,929 [INFO] Auto-selected regimes based on Sharpe: [2, 0, 4, 1, 3]
+2025-04-12 15:34:49,945 [INFO] 
+Regime ranking based on Sharpe:
+            mean       std    sharpe
+Regime                              
+2       0.002596  0.007522  0.345155
+0       0.000097  0.007561  0.012834
+4      -0.000126  0.007133 -0.017675
+1      -0.000429  0.014304 -0.030006
+3      -0.002491  0.038553 -0.064623
+2025-04-12 15:34:49,945 [INFO] Plotting HMM regimes...
+2025-04-12 15:34:50,726 [INFO] Regime plot saved.
+2025-04-12 15:34:50,727 [INFO] Training ML classifier for signal generation...
+2025-04-12 15:34:50,888 [INFO] [INFO] Fold 1 Accuracy: 0.5566
+2025-04-12 15:34:51,039 [INFO] [INFO] Fold 2 Accuracy: 0.5566
+2025-04-12 15:34:51,190 [INFO] [INFO] Fold 3 Accuracy: 0.5755
+2025-04-12 15:34:51,341 [INFO] [INFO] Fold 4 Accuracy: 0.4670
+2025-04-12 15:34:51,507 [INFO] [INFO] Fold 5 Accuracy: 0.5000
+2025-04-12 15:34:51,526 [INFO] Displaying frequency of (Signal, Regime) combinations:
+2025-04-12 15:34:52,096 [INFO] Signal plot saved to: plots/signals_plot.png
+2025-04-12 15:34:52,117 [INFO] Backtesting strategy...
+2025-04-12 15:34:52,650 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 15:34:52,665 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 15:34:52,665 [INFO] Backtest completed and plot saved.
+2025-04-12 15:34:52,665 [INFO] Sharpe Ratio: 8.69
+2025-04-12 15:34:52,665 [INFO] Sortino Ratio: 13.74
+2025-04-12 15:34:52,665 [INFO] Max Drawdown: -28.08%
+2025-04-12 15:34:52,665 [INFO] Backtest completed and plot saved.
+2025-04-12 15:34:52,680 [INFO] 
+Signal  Regime
+ 1.0    2         231
+        0         151
+        4         151
+-1.0    2         146
+        0         142
+        4         140
+ 1.0    1         135
+-1.0    1         125
+        3          26
+ 1.0    3          25
+Name: count, dtype: int64
+2025-04-12 15:34:52,683 [INFO] Backtest complete. Final portfolio value: 1027788254.24
+2025-04-12 15:34:52,684 [INFO] Absolute Return: Rs. 1026788254.24
+2025-04-12 15:34:52,685 [INFO] ROI: 102678.83%
+2025-04-12 15:34:52,685 [INFO] Annualized ROI: 285.01%
+2025-04-12 15:34:52,686 [INFO] CAGR (Compounded Annual Growth Rate): 285.01%
+2025-04-12 15:37:31,058 [INFO] Loading NIFTY data...
+2025-04-12 15:37:32,058 [INFO] Adding technical indicators...
+2025-04-12 15:37:32,206 [INFO] Fitting HMM model for regime detection...
+2025-04-12 15:37:32,714 [INFO] Auto-selected regimes based on Sharpe: [2, 0, 4, 1, 3]
+2025-04-12 15:37:32,725 [INFO] 
+Regime ranking based on Sharpe:
+            mean       std    sharpe
+Regime                              
+2       0.002596  0.007522  0.345155
+0       0.000097  0.007561  0.012834
+4      -0.000126  0.007133 -0.017675
+1      -0.000429  0.014304 -0.030006
+3      -0.002491  0.038553 -0.064623
+2025-04-12 15:37:32,726 [INFO] Plotting HMM regimes...
+2025-04-12 15:37:33,525 [INFO] Regime plot saved.
+2025-04-12 15:37:33,525 [INFO] Training ML classifier for signal generation...
+2025-04-12 15:37:33,680 [INFO] [INFO] Fold 1 Accuracy: 0.5566
+2025-04-12 15:37:33,830 [INFO] [INFO] Fold 2 Accuracy: 0.5566
+2025-04-12 15:37:33,995 [INFO] [INFO] Fold 3 Accuracy: 0.5755
+2025-04-12 15:37:34,174 [INFO] [INFO] Fold 4 Accuracy: 0.4670
+2025-04-12 15:37:34,340 [INFO] [INFO] Fold 5 Accuracy: 0.5000
+2025-04-12 15:37:34,358 [INFO] Displaying frequency of (Signal, Regime) combinations:
+2025-04-12 15:37:35,014 [INFO] Signal plot saved to: plots/signals_plot.png
+2025-04-12 15:37:35,043 [INFO] Backtesting strategy...
+2025-04-12 15:37:35,766 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 15:37:35,766 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 15:37:35,767 [INFO] Backtest completed and plot saved.
+2025-04-12 15:37:35,767 [INFO] Sharpe Ratio: 8.69
+2025-04-12 15:37:35,768 [INFO] Sortino Ratio: 13.74
+2025-04-12 15:37:35,769 [INFO] Max Drawdown: -28.08%
+2025-04-12 15:37:35,770 [INFO] Backtest completed and plot saved.
+2025-04-12 15:37:35,784 [INFO] 
+Signal  Regime
+ 1.0    2         231
+        0         151
+        4         151
+-1.0    2         146
+        0         142
+        4         140
+ 1.0    1         135
+-1.0    1         125
+        3          26
+ 1.0    3          25
+Name: count, dtype: int64
+2025-04-12 15:37:35,788 [INFO] Backtest complete. Final portfolio value: Rs. 102.78 Cr
+2025-04-12 15:37:35,789 [INFO] Initial Portfolio Value: Rs. 10.00 L
+2025-04-12 15:37:35,789 [INFO] Absolute Return: Rs. 1026788254.24
+2025-04-12 15:37:35,790 [INFO] ROI: 102678.83%
+2025-04-12 15:37:35,792 [INFO] Annualized ROI: 285.01%
+2025-04-12 15:37:35,792 [INFO] CAGR (Compounded Annual Growth Rate): 285.01%
+2025-04-12 15:39:05,903 [INFO] Loading NIFTY data...
+2025-04-12 15:39:06,628 [INFO] Adding technical indicators...
+2025-04-12 15:39:06,743 [INFO] Fitting HMM model for regime detection...
+2025-04-12 15:39:07,248 [INFO] Auto-selected regimes based on Sharpe: [2, 0, 4, 1, 3]
+2025-04-12 15:39:07,258 [INFO] 
+Regime ranking based on Sharpe:
+            mean       std    sharpe
+Regime                              
+2       0.002596  0.007522  0.345155
+0       0.000097  0.007561  0.012834
+4      -0.000126  0.007133 -0.017675
+1      -0.000429  0.014304 -0.030006
+3      -0.002491  0.038553 -0.064623
+2025-04-12 15:39:07,259 [INFO] Plotting HMM regimes...
+2025-04-12 15:39:08,009 [INFO] Regime plot saved.
+2025-04-12 15:39:08,009 [INFO] Training ML classifier for signal generation...
+2025-04-12 15:39:08,158 [INFO] [INFO] Fold 1 Accuracy: 0.5566
+2025-04-12 15:39:08,309 [INFO] [INFO] Fold 2 Accuracy: 0.5566
+2025-04-12 15:39:08,465 [INFO] [INFO] Fold 3 Accuracy: 0.5755
+2025-04-12 15:39:08,629 [INFO] [INFO] Fold 4 Accuracy: 0.4670
+2025-04-12 15:39:08,793 [INFO] [INFO] Fold 5 Accuracy: 0.5000
+2025-04-12 15:39:08,812 [INFO] Displaying frequency of (Signal, Regime) combinations:
+2025-04-12 15:39:09,404 [INFO] Signal plot saved to: plots/signals_plot.png
+2025-04-12 15:39:09,416 [INFO] Backtesting strategy...
+2025-04-12 15:39:09,985 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 15:39:09,986 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 15:39:09,986 [INFO] Backtest completed and plot saved.
+2025-04-12 15:39:09,987 [INFO] Sharpe Ratio: 9.75
+2025-04-12 15:39:09,987 [INFO] Sortino Ratio: 16.02
+2025-04-12 15:39:09,987 [INFO] Max Drawdown: -28.07%
+2025-04-12 15:39:09,988 [INFO] Backtest completed and plot saved.
+2025-04-12 15:39:10,003 [INFO] 
+Signal  Regime
+ 1.0    2         231
+        0         151
+        4         151
+-1.0    2         146
+        0         142
+        4         140
+ 1.0    1         135
+-1.0    1         125
+        3          26
+ 1.0    3          25
+Name: count, dtype: int64
+2025-04-12 15:39:10,005 [INFO] Backtest complete. Final portfolio value: Rs. 24.94 Cr
+2025-04-12 15:39:10,007 [INFO] Initial Portfolio Value: Rs. 10.00 L
+2025-04-12 15:39:10,007 [INFO] Absolute Return: Rs. 24.84 Cr
+2025-04-12 15:39:10,008 [INFO] ROI: 24837.45%
+2025-04-12 15:39:10,008 [INFO] Annualized ROI: 192.36%
+2025-04-12 15:39:10,009 [INFO] CAGR (Compounded Annual Growth Rate): 192.36%
+2025-04-12 15:41:45,100 [INFO] Loading NIFTY data...
+2025-04-12 15:41:45,761 [INFO] Adding technical indicators...
+2025-04-12 15:41:45,878 [INFO] Fitting HMM model for regime detection...
+2025-04-12 15:41:46,420 [INFO] Auto-selected regimes based on Sharpe: [2, 0, 4, 1, 3]
+2025-04-12 15:41:46,429 [INFO] 
+Regime ranking based on Sharpe:
+            mean       std    sharpe
+Regime                              
+2       0.002596  0.007522  0.345155
+0       0.000097  0.007561  0.012834
+4      -0.000126  0.007133 -0.017675
+1      -0.000429  0.014304 -0.030006
+3      -0.002491  0.038553 -0.064623
+2025-04-12 15:41:46,431 [INFO] Plotting HMM regimes...
+2025-04-12 15:41:47,306 [INFO] Regime plot saved.
+2025-04-12 15:41:47,307 [INFO] Training ML classifier for signal generation...
+2025-04-12 15:41:47,503 [INFO] [INFO] Fold 1 Accuracy: 0.5566
+2025-04-12 15:41:47,654 [INFO] [INFO] Fold 2 Accuracy: 0.5566
+2025-04-12 15:41:47,811 [INFO] [INFO] Fold 3 Accuracy: 0.5755
+2025-04-12 15:41:47,973 [INFO] [INFO] Fold 4 Accuracy: 0.4670
+2025-04-12 15:41:48,138 [INFO] [INFO] Fold 5 Accuracy: 0.5000
+2025-04-12 15:41:48,157 [INFO] Displaying frequency of (Signal, Regime) combinations:
+2025-04-12 15:41:48,762 [INFO] Signal plot saved to: plots/signals_plot.png
+2025-04-12 15:41:48,776 [INFO] Backtesting strategy...
+2025-04-12 15:41:49,346 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 15:41:49,349 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 15:41:49,349 [INFO] Backtest completed and plot saved.
+2025-04-12 15:41:49,350 [INFO] Sharpe Ratio: 9.75
+2025-04-12 15:41:49,350 [INFO] Sortino Ratio: 16.02
+2025-04-12 15:41:49,351 [INFO] Max Drawdown: -28.07%
+2025-04-12 15:41:49,351 [INFO] Backtest completed and plot saved.
+2025-04-12 15:41:49,370 [INFO] 
+Signal  Regime
+ 1.0    2         231
+        0         151
+        4         151
+-1.0    2         146
+        0         142
+        4         140
+ 1.0    1         135
+-1.0    1         125
+        3          26
+ 1.0    3          25
+Name: count, dtype: int64
+2025-04-12 15:41:49,372 [INFO] Backtest complete. Final portfolio value: Rs. 24.94 L
+2025-04-12 15:41:49,373 [INFO] Initial Portfolio Value: Rs. 10.00 K
+2025-04-12 15:41:49,373 [INFO] Absolute Return: Rs. 24.84 L
+2025-04-12 15:41:49,374 [INFO] ROI: 24837.45%
+2025-04-12 15:41:49,375 [INFO] Annualized ROI: 192.36%
+2025-04-12 15:41:49,375 [INFO] CAGR (Compounded Annual Growth Rate): 192.36%
+2025-04-12 15:43:26,675 [INFO] Loading NIFTY data...
+2025-04-12 15:43:27,426 [INFO] Adding technical indicators...
+2025-04-12 15:43:27,593 [INFO] Fitting HMM model for regime detection...
+2025-04-12 15:43:28,111 [INFO] Auto-selected regimes based on Sharpe: [2, 0, 4, 1, 3]
+2025-04-12 15:43:28,121 [INFO] 
+Regime ranking based on Sharpe:
+            mean       std    sharpe
+Regime                              
+2       0.002596  0.007522  0.345155
+0       0.000097  0.007561  0.012834
+4      -0.000126  0.007133 -0.017675
+1      -0.000429  0.014304 -0.030006
+3      -0.002491  0.038553 -0.064623
+2025-04-12 15:43:28,122 [INFO] Plotting HMM regimes...
+2025-04-12 15:43:28,874 [INFO] Regime plot saved.
+2025-04-12 15:43:28,874 [INFO] Training ML classifier for signal generation...
+2025-04-12 15:43:29,007 [INFO] [INFO] Fold 1 Accuracy: 0.5075
+2025-04-12 15:43:29,147 [INFO] [INFO] Fold 2 Accuracy: 0.4254
+2025-04-12 15:43:29,294 [INFO] [INFO] Fold 3 Accuracy: 0.5224
+2025-04-12 15:43:29,446 [INFO] [INFO] Fold 4 Accuracy: 0.4627
+2025-04-12 15:43:29,603 [INFO] [INFO] Fold 5 Accuracy: 0.4776
+2025-04-12 15:43:29,621 [INFO] Displaying frequency of (Signal, Regime) combinations:
+2025-04-12 15:43:30,259 [INFO] Signal plot saved to: plots/signals_plot.png
+2025-04-12 15:43:30,273 [INFO] Backtesting strategy...
+2025-04-12 15:43:30,894 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 15:43:30,895 [INFO] Plot saved to: plots/portfolio_plot.png
+2025-04-12 15:43:30,896 [INFO] Backtest completed and plot saved.
+2025-04-12 15:43:30,896 [INFO] Sharpe Ratio: 9.93
+2025-04-12 15:43:30,897 [INFO] Sortino Ratio: 16.62
+2025-04-12 15:43:30,897 [INFO] Max Drawdown: -14.71%
+2025-04-12 15:43:30,898 [INFO] Backtest completed and plot saved.
+2025-04-12 15:43:30,912 [INFO] 
+Signal  Regime
+ 1.0    0         140
+        4         138
+        2         119
+-1.0    4         105
+        0         104
+        1          71
+        2          71
+ 1.0    1          60
+Name: count, dtype: int64
+2025-04-12 15:43:30,917 [INFO] Backtest complete. Final portfolio value: Rs. 1.71 L
+2025-04-12 15:43:30,918 [INFO] Initial Portfolio Value: Rs. 10.00 K
+2025-04-12 15:43:30,918 [INFO] Absolute Return: Rs. 1.61 L
+2025-04-12 15:43:30,918 [INFO] ROI: 1609.01%
+2025-04-12 15:43:30,919 [INFO] Annualized ROI: 138.29%
+2025-04-12 15:43:30,920 [INFO] CAGR (Compounded Annual Growth Rate): 138.29%
+2025-04-12 15:44:34,345 [INFO] Loading NIFTY data...
+2025-04-12 15:44:35,090 [INFO] Adding technical indicators...
+2025-04-12 15:44:35,209 [INFO] Fitting HMM model for regime detection...
+2025-04-12 15:44:35,680 [INFO] Auto-selected regimes based on Sharpe: [2, 0, 4, 1, 3]
+2025-04-12 15:44:35,689 [INFO] 
+Regime ranking based on Sharpe:
+            mean       std    sharpe
+Regime                              
+2       0.002596  0.007522  0.345155
+0       0.000097  0.007561  0.012834
+4      -0.000126  0.007133 -0.017675
+1      -0.000429  0.014304 -0.030006
+3      -0.002491  0.038553 -0.064623
+2025-04-12 15:44:35,690 [INFO] Plotting HMM regimes...
+2025-04-12 15:44:36,670 [INFO] Regime plot saved.
+2025-04-12 15:44:36,671 [INFO] Training ML classifier for signal generation...
+2025-04-12 15:44:36,802 [INFO] [INFO] Fold 1 Accuracy: 0.5075
+2025-04-12 15:44:36,947 [INFO] [INFO] Fold 2 Accuracy: 0.4254
+2025-04-12 15:44:37,094 [INFO] [INFO] Fold 3 Accuracy: 0.5224
+2025-04-12 15:44:37,249 [INFO] [INFO] Fold 4 Accuracy: 0.4627
+2025-04-12 15:44:37,407 [INFO] [INFO] Fold 5 Accuracy: 0.4776
+2025-04-12 15:44:37,423 [INFO] Displaying frequency of (Signal, Regime) combinations:
